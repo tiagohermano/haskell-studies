@@ -1,0 +1,14 @@
+? /home/tiago/snap/exercism/5/exercism/haskell/01-lucians-luscious-lasagna/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/test/autogen/Paths_lucians_luscious_lasagna.hs
+: hash: 453ec0a73c2ae68ae66e934993174a17a56bebef9218cac6d7add323fb3898ed
+/home/tiago/.stack/programs/x86_64-linux/ghc-tinfo6-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+/home/tiago/snap/exercism/5/exercism/haskell/01-lucians-luscious-lasagna/lucians-luscious-lasagna.cabal:
+  hash: 3f70375188827eccb488b422437b426197947a3abefabac8f8de63ce2a92cf2a
+/home/tiago/snap/exercism/5/exercism/haskell/01-lucians-luscious-lasagna/package.yaml:
+  hash: f289fc428522fb2a3f75b556978c54b0df75ba8b73b6142802ea9ddd683ce53e
+/usr/include/stdc-predef.h:
+  hash: 38bac01c137da3ec6623c5166d420cd0bdee18e1d6605921f138f74ef902f102
+? /home/tiago/snap/exercism/5/exercism/haskell/01-lucians-luscious-lasagna/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/test/autogen/cabal_macros.h
+: hash: b0a4265e5b850954a9a3cc93517cbd89b661dc15e13bec2b160b3c232c2b4cae
+/home/tiago/snap/exercism/5/exercism/haskell/01-lucians-luscious-lasagna/test/Tests.hs:
+  hash: b4dce38cf0afc312707bc1660b21d34de5396413e5e118f124b92284615339d5
