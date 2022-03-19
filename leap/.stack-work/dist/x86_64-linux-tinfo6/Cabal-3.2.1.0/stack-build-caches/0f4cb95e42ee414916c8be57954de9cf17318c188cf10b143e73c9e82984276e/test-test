@@ -1,0 +1,14 @@
+? /home/tiago/snap/exercism/5/exercism/haskell/leap/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/test/autogen/Paths_leap.hs
+: hash: 4b33ebe5f385d4bc75168056b2e5054ce2282f76ee2243223def5543d2c8917b
+/home/tiago/.stack/programs/x86_64-linux/ghc-tinfo6-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+? /home/tiago/snap/exercism/5/exercism/haskell/leap/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/test/autogen/cabal_macros.h
+: hash: e4cad6ef898909d701b3235155a1793100d13a94b72b1dd93f4812c0c73f5542
+/usr/include/stdc-predef.h:
+  hash: 38bac01c137da3ec6623c5166d420cd0bdee18e1d6605921f138f74ef902f102
+/home/tiago/snap/exercism/5/exercism/haskell/leap/package.yaml:
+  hash: 741adae21e7fab15e96ec98d318f3ec9cbc33dc86f419cd56cd829d6c64a1c54
+/home/tiago/snap/exercism/5/exercism/haskell/leap/leap.cabal:
+  hash: aaabfb0f449ea4b4a6c9213e383a96672cc79366eb779e8ad5780747a9548f98
+/home/tiago/snap/exercism/5/exercism/haskell/leap/test/Tests.hs:
+  hash: f0e23b421ae686bb35398eb1b91ca2717b945e25cac3203aaa89d09c9ca8cde0
